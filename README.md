@@ -1,6 +1,10 @@
 ## Домашнее задание к занятию 4 «Оркестрация группой Docker контейнеров на примере Docker Compose»
 
+### Задача 1
+7.  
+Ссылка в docker-hub: [https://hub.docker.com/repository/docker/t937on/netologia_devops_2_4_1_custom_nginx/general](https://hub.docker.com/repository/docker/t937on/netologia_devops_2_4_1_custom_nginx/general)
 
+***
 ### Задача 3
 3.  
 Если подключиться к контейнеру через команду "attach"  то выполняется подключение к основному процессу, выполняемому в контейнере. Не создается новый процесс, а подключается стандратный ввод/вывод к уже работающему процессу.   
